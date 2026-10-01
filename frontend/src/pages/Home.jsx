@@ -17,7 +17,7 @@ export default function Home() {
       {/* ── Hero Banner ── */}
       <section className="relative h-[85vh] min-h-[560px] overflow-hidden bg-maroon-dark flex items-center">
         <img
-          src="/banner.jpg"
+          src="https://raw.githubusercontent.com/professorhemant/kavipushpwebsite/main/frontend/public/banner.jpg"
           alt="Kavipushp Bridal Banner"
           className="absolute inset-0 w-full h-full object-cover object-center opacity-70"
         />
